@@ -11,8 +11,10 @@ También hay una sección llamada "BrainProject", dedicada a nuevas propuestas e
 + <h3>OFabETools</h3>
 En un segundo plano encontraréis una sección llamada OFabETools con herramientas apoyo para el uso del Laboratorio.
 
-#<h4> Esperamos vuestra colaboración. Nos vemos en O Fab da ETSAC.</h4>
+# <h5> Esperamos vuestra colaboración. Nos vemos en O Fab da ETSAC. </h5>
+<br>
 
- > Edificio de Departamentos de Arquitectura, 
- > Campus Zapateira, Rúa da Fraga nº8,
+
+ > Edificio de Departamentos de Arquitectura, <br>
+ > Campus Zapateira, Rúa da Fraga nº8, <br>
  > 15008, A Coruña
